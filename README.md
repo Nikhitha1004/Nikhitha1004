@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nikhitha1004
 - 👀 I’m interested in web frontenddevelopment
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me nikhithainala@gmail.com
 
 <!---
